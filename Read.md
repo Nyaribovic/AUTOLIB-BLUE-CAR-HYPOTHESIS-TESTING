@@ -11,11 +11,11 @@ The repository contains the following files/folders:
 
 •requirements.txt: This file contains the necessary libraries, see the section "How to Use them" in this README.
 
-•	data: The data folder contains data in csv-format. The name of the columns and an explanation of each column.
+•	data: Two data sets in csv-format. One is the working data and the other contains the column names and an explanation for each column.
 
 •	notebooks: This folder contains the Colab.CORE_WK4_Autolib_Hypothesis_Testing.ipynb which contains the main analysis. 
 
-•	README: This Readme.
+•	Readme: This Readme.
 
 ## Packages
 The following packages are necessary to run the cells  Notebook CORE_WK4_Autolib_Hypothesis_Testing.ipynb:
