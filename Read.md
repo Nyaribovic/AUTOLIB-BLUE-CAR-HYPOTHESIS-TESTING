@@ -1,6 +1,3 @@
-# Autolib  Electric Car Hypothesis Testing
-
-
 # Purpose of the Repository
 
 This repository contains the results of the Data Science Project which involved Assessing hypothesis testing to check if the number of Blue cars taken in area X different than in area Y.
@@ -8,7 +5,7 @@ This repository contains the results of the Data Science Project which involved 
 ## Overview
 This repository contains the python code that the project has utilized.
 
-##Files in the Repository
+## Files in the Repository
 
 The repository contains the following files/folders:
 •	requirements.txt: This file contains the necessary libraries, see the section "How to Use them" in this README.
