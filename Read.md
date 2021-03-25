@@ -18,7 +18,7 @@ The repository contains the following files/folders:
 •	Readme: This Readme.
 
 ## Packages
-The following packages are necessary to run the cells  Notebook CORE_WK4_Autolib_Hypothesis_Testing.ipynb:
+The following packages are necessary to run the cells  Notebook AUTOLIB_BLUE_CAR_HYPOTHESIS_TESTING.ipynb:
 
 •	import pandas as pd
 
