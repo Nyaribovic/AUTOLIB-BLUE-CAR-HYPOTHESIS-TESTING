@@ -15,7 +15,7 @@ The repository contains the following files/folders:
 
 •	notebooks: This folder contains the Colab.CORE_WK4_Autolib_Hypothesis_Testing.ipynb which contains the main analysis. 
 
-•	README: This README.
+•	README: This Readme.
 
 ## Packages
 The following packages are necessary to run the cells  Notebook CORE_WK4_Autolib_Hypothesis_Testing.ipynb:
