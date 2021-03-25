@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+##Autolib  Electric Car Hypothesis Testing
+##Purpose of the Repository
 
-You can use the [editor on GitHub](https://github.com/Nyaribovic/AUTOLIB-BLUE-CAR-HYPOTHESIS-TESTING/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the results of the Data Science Project which involved Assessing hypothesis testing to check if the number of Blue cars taken in area X different than in area Y.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Overview
+This repository contains the python code that the project has utilized.
 
-### Markdown
+##Files in the Repository
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The repository contains the following files/folders:
+•	requirements.txt: This file contains the necessary libraries, see the section "How to Use them" in this README.
+•	data: The data folder contains data in csv-format. The name of the columns and an explanation of each column.
+•	notebooks: This folder contains the Colab.CORE_WK4_Autolib_Hypothesis_Testing.ipynb which contains the main analysis. 
+•	README: This README.
 
-```markdown
-Syntax highlighted code block
+##Packages
+The following packages are necessary to run the cells  Notebook CORE_WK4_Autolib_Hypothesis_Testing.ipynb:
+•	import pandas as pd
+•	import numpy as np
+•	import seaborn as sns
+•	import matplotlib
+•	from matplotlib import pyplot as plt
+##How To Use It
+All code is in the  Notebook . Please ensure that all dependencies which are mentioned in the section Packages have been installed. Further, the full analysis is contained in the  markdown cells.
 
-# Header 1
-## Header 2
-### Header 3
+##Contributor
+  V. B. Nyaribo.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nyaribovic/AUTOLIB-BLUE-CAR-HYPOTHESIS-TESTING/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
