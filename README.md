@@ -19,9 +19,13 @@ The repository contains the following files/folders:
 
 # Packages
 The following packages are necessary to run the cells  Notebook AUTOLIB_BLUE_CAR_HYPOTHESIS_TESTING.ipynb:
+
 •	numpy 
+
 •	pandas 
+
 •	dateutil
+
 •	Matplotlib and statsmodels.stats.power 
 
 # How To Use It
